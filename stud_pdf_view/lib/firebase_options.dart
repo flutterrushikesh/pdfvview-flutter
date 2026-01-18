@@ -54,10 +54,9 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBMqdThuVsL0sZ_FUzr7j-6DTFBUjOvWXo',
-    appId: '1:801651610386:android:0bdf3001c3159fba1a59cb',
+    appId: '1:801651610386:android:761f0474f76c71191a59cb',
     messagingSenderId: '801651610386',
     projectId: 'assignment-read-write',
     storageBucket: 'assignment-read-write.firebasestorage.app',
   );
-
 }
